@@ -1,7 +1,7 @@
 # Confusion-Matrix-Notes
 
 1.	Confusion Matrix: (https://medium.com/swlh/recall-precision-f1-roc-auc-and-everything-542aedf322b9)
--	In confusion Matrix always remember – what is your objective. Here we want to identify fraudulent cases. 
+- In confusion Matrix always remember – what is your objective. Here we want to identify fraudulent cases. 
 -	Don’t worry about the Negative and positive boxes switches. Calculations dose not change for Recall and all..
 -	Generally positive is for small classifier like fraud, ill patients, cancer patients, loan defaulters etc. 
 
